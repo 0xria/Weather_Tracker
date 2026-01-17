@@ -1,0 +1,4 @@
+- **The Goal:** Pull data from an API (OpenWeather) every hour.
+- **The Tech:** Python (Requests library), SQL (PostgreSQL), and Docker.
+- **The Twist:** Instead of a static file, you are handling "streaming" data. You save it into a database that grows over time.
+- **Vibe:** It shows you can handle **live data**.
